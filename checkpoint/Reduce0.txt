@@ -1,0 +1,5 @@
+{"f0":"bigdata","f1":1}
+{"f0":"happy","f1":3}
+{"f0":"wonderful","f1":2}
+{"f0":"hello","f1":1}
+{"f0":"join","f1":1}

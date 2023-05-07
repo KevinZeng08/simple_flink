@@ -1,0 +1,18 @@
+2022-08-23 18:00:07 - 2022-08-23 18:00:27
+Tuple2{word=hello, count=1}
+Tuple2{word=happy, count=1}
+Tuple2{word=bytedance, count=1}
+Tuple2{word=to, count=1}
+Tuple2{word=camp, count=1}
+Tuple2{word=join, count=1}
+Tuple2{word=bigdata, count=1}
+Tuple2{word=happy, count=2}
+Tuple2{word=wonderful, count=1}
+Tuple2{word=to, count=2}
+Tuple2{word=meet, count=1}
+Tuple2{word=teachers, count=1}
+2022-08-23 18:00:27 - 2022-08-23 18:00:47
+Tuple2{word=happy, count=3}
+Tuple2{word=wonderful, count=2}
+Tuple2{word=to, count=3}
+Tuple2{word=meet, count=2}

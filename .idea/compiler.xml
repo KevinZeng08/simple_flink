@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ByteDance_BigData_P2" target="1.8" />
+      <module name="ByteDance_BigData_P2" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
